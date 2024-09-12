@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Uthej Mopathi on 9/11/24.
+  
+*/
+"enterCityPlaceholder" = "Enter city";
+"cityTextFieldLabel" = "Text field for entering city";
+"errorMessage" = "Error: %@";
+"placeholderText" = "Enter a city to get weather information.";
+"cityName" = "City: %@";
+"temperature" = "Temperature: %.1f°C";
+"humidity" = "Humidity: %.2f%%";
+"loadingIcon" = "Loading weather icon";
+"weatherIcon" = "Weather icon for %@";
+"failedToLoadImage" = "Failed to load image: %@";
+"unknownError" = "Unknown error";
+"iconNotAvailable" = "Icon not available";
